@@ -47,7 +47,7 @@ xDS에는 다음과 같은 주요 검색 서비스가 포함되어 있으며, �
 xDS 프로토콜에 대한 자세한 소개(예: xDS RPC 서비스 및 다양한 메서드, xDS 요청 처리 과정 등)는 Envoy Proxy 공식 문서를 참고하시기 바랍니다.
 
 ---
-xDS 프로토콜의 다양한 종류
+### xDS 프로토콜의 다양한 종류
 xDS 프로토콜은 주로 다음과 같은 형태가 포함되어 있습니다.
 
  - **State of the World (SotW)** : 별도의 gRPC 스트림은 각 리소스 유형에 대한 전체 데이터를 제공하며, 일반적으로 Envoy 프록시가 처음 시작될 때 사용됩니다. 이 방식은 Istio에서 처음으로 사용된 xDS 프로토콜 유형입니다.
@@ -168,7 +168,7 @@ dynamic_resources:
 
 xDS 프로토콜 덕분에 Istio 및 Envoy Gateway와 같은 도구는 API를 통해 Envoy 프록시에 구성을 동적으로 배포할 수 있습니다. 아래 다이어그램은 Istio(Sidecar 모드)의 구성 배포 프로세스를 보여줍니다.
 
-![alt text](../assets/images/posts_img/istio/01.deltaXDS/istio_logic.png)
+![alt text](/assets/images/posts_img/istio/01.deltaXDS/istio_logic.png)
 
 Istio의 구성 배포 프로세스의 주요 단계는 다음과 같습니다.
 
@@ -196,7 +196,7 @@ Delta xDS를 구현하는 동안 Istio 팀은 구성 업데이트의 정확성�
 
 아래 다이어그램은 Delta xDS 증분 구성 프로세스를 보여줍니다.
 
-![alt text](../assets/images/posts_img/istio/01.deltaXDS/istio_deltaXDS_logic.png)
+![alt text](/assets/images/posts_img/istio/01.deltaXDS/istio_deltaXDS_logic.png)
 
 Delta xDS 구성 프로세스는 다음과 같습니다.
 
