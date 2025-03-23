@@ -25,7 +25,7 @@ subtitle: "Focus on the reasoning, not just the answer." # site tagline that app
 name: "C0deWave" # 블로그 닉네임 설정
 description: "Focus on the reasoning, not just the answer." # 블로그 설명
 url: "https://C0deWave.github.io" # 블로그 URL
-baseurl: "https://C0deWave.github.io" # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "c0dewave/c0dewave.github.io" # GitHub Repo 이름
 teaser: #
 
