@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "Think"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/think/
 author_profile: true
-taxonomy: Categories1
+taxonomy: Think
 sidebar:
   nav: "categories"
 ---

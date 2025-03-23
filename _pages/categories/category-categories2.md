@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Istio"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/istio/
 author_profile: true
-taxonomy: Categories2
+taxonomy: istio
 sidebar:
   nav: "categories"
 ---
