@@ -1,9 +1,9 @@
 ---
-title: "Think"
+title: "think"
 layout: category
 permalink: /categories/think/
 author_profile: true
-taxonomy: Think
+taxonomy: think
 sidebar:
   nav: "categories"
 ---
