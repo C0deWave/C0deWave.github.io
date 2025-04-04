@@ -38,7 +38,7 @@ author:
   avatar: "/assets/images/profile.png" # 블로그 프로필 사진
   bio              : "hi all!"
   location         : "Seoul, Korea"
-  email            : "wkdwnaud123@gmail.com"
+  email            : "aaa@gmail.com"
 ```
 
 ### ▪ favicon 변경
