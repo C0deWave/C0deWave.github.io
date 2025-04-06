@@ -65,8 +65,8 @@ spec:
     value: "3"  # default value if not overridden by Rollout
   metrics:
     - name: pod-count
-      successCondition: "result[0] >= {{args.required-pod-count}}"
-      failureCondition: "result[0] < {{args.required-pod-count}}"
+      successCondition: "result[0] >= \{{args.required-pod-count\}}"
+      failureCondition: "result[0] < \{{args.required-pod-count\}}"
       provider:
         prometheus:
           address: http://prometheus-operated.default.svc.cluster.local:9090
@@ -118,7 +118,7 @@ spec:
         apiVersion: v2
         interval: 5m
         query: |
-          sum:requests.error.rate{service:{{args.service-name}}}
+          sum:requests.error.rate{service:\{{args.service-name\}}}
 ---
 apiVersion: v1
 kind: Secret
