@@ -18,7 +18,7 @@ last_modified_at: 2025-04-06
 
 ## Argo Rollout Analysis
 아래 문서면 사실 이해하는데 충분하다.  
-https://argoproj.github.io/argo-rollouts/features/analysis/
+[https://argoproj.github.io/argo-rollouts/features/analysis/](https://argoproj.github.io/argo-rollouts/features/analysis/)
 
 이번에는 argo rollout의 analysis에 대해 알아본다.  
 analysis는 crd로써 argo_rollout의 **배포가 잘 이루어 졌는지 분석할 수 있도록 도와주는 역할**을 하고있다.  
