@@ -1,9 +1,9 @@
 ---
-title: "Categories4"
+title: "CI/CD"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/ci_cd/
 author_profile: true
-taxonomy: Categories4
+taxonomy: ci_cd
 sidebar:
   nav: "categories"
 ---

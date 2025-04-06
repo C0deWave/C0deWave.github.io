@@ -24,5 +24,5 @@ categories:
     url: /categories/istio/
   - title: "Book review"
     url: /categories/book_review/
-  # - title: "Categories4"
-  #   url: /categories/categories4/
+  - title: "CI/CD"
+    url: /categories/ci_cd/
