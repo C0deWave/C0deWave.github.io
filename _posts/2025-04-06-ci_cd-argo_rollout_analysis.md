@@ -1,13 +1,13 @@
 ---
-title: "Argo_rollout:: Analysis Metrics"
-excerpt: "잘 배포되고 있을까?"
+title: "Argo_rollout:: Experiment"
+excerpt: "잘 되는 거니?"
 
 categories:
   - ci_cd
 tags:
   - [ci_cd, argo_rollout]
 
-permalink: /think/ci_cd/
+permalink: /ci_cd/argo_rollout_experiment/
 
 toc: true
 toc_sticky: true
