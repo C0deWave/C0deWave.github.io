@@ -67,7 +67,7 @@ ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여
 
 ### 3. 모두가 함께 즐긴 행사
 
-![alt text](../assets/images/posts_img/think/20250525_gold_key/2ca989d7836c7932cb420ac2a51509dc_res.jpeg)
+![alt text](/assets/images/posts_img/think/20250525_gold_key/2ca989d7836c7932cb420ac2a51509dc_res.jpeg)
 
 행사를 공지하면서 [ "미쳤다", "이래서 열쇠를 받았나 보다", "커피를 마구 마셔서 거덜 내겠다" ] 등등 여러 이야기를 주셨던게 기억에 남는다.  
 
@@ -85,7 +85,8 @@ ps. 진짜 황금 3돈이다 ㅎㄷㄷ, 연구소 1명, 사업부 1명씩 수여
 
 ### 4. 내가 얻게 된 것들
 
-![](../assets/images/posts_img/think/20250525_gold_key/IMG_9246.jpeg)
+![](/assets/images/posts_img/think/20250525_gold_key/IMG_9246.jpeg)
+
 이벤트를 하면서 정산을 위해 명함을 받았는데  
 회사가 커지면서 명함 디자인이 참 많이 바뀌었다.  
 이 명함이 지금 나에게는 황금 열쇠 이상의 가치이다.  
